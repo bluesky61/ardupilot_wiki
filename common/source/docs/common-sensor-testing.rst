@@ -31,7 +31,7 @@ You can see the output from all the various sensors by clicking on the
 **Tuning** checkbox on the bottom right of the display **  1  ** This
 will bring up the graphical sensor display.
 
-If you click on the legend at the top of it **  2  ** , it will bring up
+If you double click on the legend at the top of it **  2  ** , it will bring up
 a window **"Graph This"** that allows you to choose which sensors and
 data outputs to display.
 
