@@ -208,8 +208,7 @@ EKF_EAS_NOISE
 This is the RMS value of noise in compass measurements. Increasing it
 reduces the weighting on these measurements. See the section on
 interpreting EKF3 log data for more information on using log data to
-help set this parameter. See the section on interpreting EKF3 log data
-for more information on using log data to help set this parameter.
+help set this parameter. 
 
 EKF_FALLBACK
 -------------
