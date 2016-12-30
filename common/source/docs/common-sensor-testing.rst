@@ -4,7 +4,7 @@
 Sensor Testing
 ==============
 
-This article shows how to check that the main main sensors (including
+This article shows how to check that the main sensors (including
 position and GPS) are working properly.
 
 Checking the main sensors
